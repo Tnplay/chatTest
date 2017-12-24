@@ -1,3 +1,7 @@
 # mediaUpload
+## WIP
 Test of my own media upload site.
-# WIP
+## Progress:
+-CSS
+-Login system?
+-HTTPS
