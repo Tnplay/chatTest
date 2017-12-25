@@ -7,3 +7,7 @@ Test of my own media upload site.
 -Login system?
 
 -HTTPS
+
+-Search bar
+
+-New fonts!!!
